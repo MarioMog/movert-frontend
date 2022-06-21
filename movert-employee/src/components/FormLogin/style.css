@@ -1,0 +1,25 @@
+.form-item-input {
+  margin-top: 1.5em;
+  border: none;
+  border-bottom: 1px solid;
+  font-size: 1.5em;
+  width: 100%;
+}
+.form-item-input:focus-visible {
+  outline: 0px;
+}
+.form-item-button{
+  cursor: pointer;
+  width: 250px;
+  height: 50px;
+  background-color: #3083DC;
+  margin-top: 1em;
+  border: none;
+  font-size: 1em;
+  color: white;
+  border-radius: 10px;
+  float: right;
+}
+.form-item-button:hover{
+  background-color: #2162a9;
+}
