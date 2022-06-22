@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 import './style.css'
 const Navbar = () => {
-  const [logged] = useState(false)
+  const [logged] = useState(true)
   return (
     <>
       <nav>
