@@ -1,0 +1,12 @@
+.main-container {
+  width: 100%;
+  height: calc(100vh - 150px - 100px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 700px;
+  height: 400px;
+  flex-direction: column;
+}
